@@ -1,0 +1,10 @@
+.app-header{ 
+    justify-content: center; 
+    align-items: center;
+    }
+    
+.app-header-logo{
+      width: 1490px;
+      height: 476px;
+      flex-shrink: 0;
+    }

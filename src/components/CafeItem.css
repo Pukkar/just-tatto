@@ -1,0 +1,6 @@
+.cafe-item img{
+    display: block;
+    width: 272px;
+  height: 264px;
+  flex-shrink: 0;
+  }
